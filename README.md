@@ -7,7 +7,10 @@
 
 <h2>📺 Certifications</h2>
 
-- [Certified Foundation Level Tester (ASTQB - CTFL](https://atsqa.org/certified-testers/profile/2fb82d18a86c48f396531e1d856b25d5)
+- [Certified Foundation Level Tester (ASTQB - CTFL)](https://atsqa.org/certified-testers/profile/2fb82d18a86c48f396531e1d856b25d5)
+- [Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/ITJhaLxFTeiITc8GOiZHcg)
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/N6BPYRD8AUTP)
+- [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/certificate/7U9LVKMLB4D9)
 
 <h2> 🤳 Connect with me:</h2>
 
