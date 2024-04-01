@@ -3,7 +3,9 @@
 <h2>👨‍💻 Automation Projects:</h2>
 
 - <b>Automate a complete Testcase, each stage is verified before advancing to the next</b>
-  - [Basic TestScript using Selenium(C#)](https://github.com/Mivics1/WebDriver-CSharp-Ecommerce/tree/master)
+  - [Basic TestScript using Selenium(C#)](https://github.com/Mivics1/WebDriver-CSharp-Ecommerce/tree/master)    
+- <b>Automate the testing of RESTful APIs. </b>
+  - [Automating RESTful API testing using Postman](https://github.com/Mivics1/Testing-Restful-Booker/tree/Main)
 
 <h2>📺 Certifications</h2>
 
