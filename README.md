@@ -3,7 +3,7 @@
 <h2>👨‍💻 Automation Projects:</h2>
 
 - <b>Automation Testing Using Selenium: A Complete Use Case Implementation</b>
-  - [Using Selenium basic test script](https://github.com/Mivics1/WebDriver-CSharp-Ecommerce/tree/master)
+  - [Using Selenium C# basic test script](https://github.com/Mivics1/WebDriver-CSharp-Ecommerce/tree/master)
   - [Using Selenium, C#, Page Object Model, and NUnit](https://github.com/Mivics1/PageObjectModel_Nunit/tree/master)    
 - <b>Automate the testing of RESTful APIs. </b>
   - [Automating RESTful API testing using Postman](https://github.com/Mivics1/Testing-Restful-Booker/tree/Main)
