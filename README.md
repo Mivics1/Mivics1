@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Automation Projects:</h2>
 
-- <b>Automate a Testcase for buying a T-Shirt, each stage is verified before advancing to the next</b>
-  - [Basic TestScript using Selenium(C#)](https://github.com/Mivics1/WebDriver-CSharp-Ecommerce/tree/master)    
+- <b>Automation Testing Using Selenium: A Complete Use Case Implementation</b>
+  - [Using Selenium basic test script](https://github.com/Mivics1/WebDriver-CSharp-Ecommerce/tree/master)
+  - [Using Selenium, C#, Page Object Model, and NUnit](https://github.com/Mivics1/PageObjectModel_Nunit/tree/master)    
 - <b>Automate the testing of RESTful APIs. </b>
   - [Automating RESTful API testing using Postman](https://github.com/Mivics1/Testing-Restful-Booker/tree/Main)
 
