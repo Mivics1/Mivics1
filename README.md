@@ -7,7 +7,7 @@
   - [Using Selenium, C#, Page Object Model, and NUnit](https://github.com/Mivics1/PageObjectModel_Nunit/tree/master)    
 - <b>Automate RESTful APIs using Postman. </b>
   - [Automating RESTful API testing using Postman](https://github.com/Mivics1/Testing-Restful-Booker/tree/Main)
-- <c>Cypress Automation (JavaScript). </b>
+- <b>Cypress Automation (JavaScript). </b>
   - [From Zero to Hero in Cypress Automation (Hands-on experience.)](https://github.com/Mivics1/Cypress-Automation)
     
 <h2>📺 Certifications</h2>
