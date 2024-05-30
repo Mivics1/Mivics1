@@ -6,7 +6,7 @@
   - [Using Selenium C# basic test script](https://github.com/Mivics1/WebDriver-CSharp-Ecommerce/tree/master)
   - [Using Selenium, C#, Page Object Model, and NUnit](https://github.com/Mivics1/PageObjectModel_Nunit/tree/master)    
 - <b>Selenium Java Test Script: To verify broken links using a URL </b>
-  - [Automating verification of broken links](https://github.com/Mivics1/Selenium-Java--VerifyBrokenLinks)
+  - [Automating the verification of broken links](https://github.com/Mivics1/Selenium-Java--VerifyBrokenLinks)
 - <b>Automate RESTful APIs using Postman. </b>
   - [Automating RESTful API testing using Postman](https://github.com/Mivics1/Testing-Restful-Booker/tree/Main)
 - <b>Cypress Automation (JavaScript). </b>
