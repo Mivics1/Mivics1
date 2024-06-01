@@ -7,6 +7,8 @@
   - [Using Selenium, C#, Page Object Model, and NUnit](https://github.com/Mivics1/PageObjectModel_Nunit/tree/master)    
 - <b>Selenium Java Test Script: To verify broken links using a URL </b>
   - [Automating the verification of broken links](https://github.com/Mivics1/Selenium-Java--VerifyBrokenLinks)
+- <b>Selenium Java Test Script: Using ExtentReports 5.1.1 </b>
+  - [Automating test reporting using the ExtentReports 5.1.1](https://github.com/Mivics1/ExtentReport_5.1.1)
 - <b>Automate RESTful APIs using Postman. </b>
   - [Automating RESTful API testing using Postman](https://github.com/Mivics1/Testing-Restful-Booker/tree/Main)
 - <b>Cypress Automation (JavaScript). </b>
