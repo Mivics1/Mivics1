@@ -32,7 +32,7 @@
 [gmail]: mailto:agbooladaramola7@gmail.com
 [linkedin]: https://www.linkedin.com/in/agboola-michael-daramola/
 [twitter]: https://twitter.com/Michael_Mivics
-[whatsapp]: https://api.whatsapp.com/send?phone=2349033083268&text=Hi%20Michael!%20I%27m%20interested%20in%20your%20QA%20services.%20Could%20we%20discuss%20further%20details%3F
+[whatsapp]: https://api.whatsapp.com/send?phone=352661662186&text=Hi%20Michael!%20I%27m%20interested%20in%20your%20QA%20services.%20Could%20we%20discuss%20further%20details%3F
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
