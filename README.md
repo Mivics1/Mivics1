@@ -9,8 +9,8 @@
   - [Automating the verification of broken links](https://github.com/Mivics1/Selenium-Java--VerifyBrokenLinks)
 - <b>Selenium Java Test Script: Using ExtentReports 5.1.1 </b>
   - [Automating test reporting using the ExtentReports 5.1.1](https://github.com/Mivics1/ExtentReport_5.1.1)
-- <b>Automate RESTful APIs using Postman. </b>
-  - [Automating RESTful API testing using Postman](https://github.com/Mivics1/Testing-Restful-Booker/tree/Main)
+- <b>RPA Automation: Data Capturing from Excel into Web and Desktop based CRM Application. </b>
+  - [Automating Customer Data into Web and Desktop based CRM]((https://github.com/Mivics1/RPA-Data-Capturing))
 - <b>Cypress Automation (JavaScript). </b>
   - [From Zero to Hero in Cypress Automation (Hands-on experience.)](https://github.com/Mivics1/Cypress-Automation)
     
