@@ -1,4 +1,4 @@
-<h1>Hi, I'm Agboola Michael Daramola! <br/><a href="https://www.linkedin.com/in/agboola-michael-daramola/">ISTQB Certified Test Automation and AI Expert </a>
+<h1>Hi, I'm Agboola Michael Daramola! <br/><a href="https://www.linkedin.com/in/agboola-michael-daramola/">ISTQB Certified Test Automation and AI Automation Engineer </a>
 
 <h2>👨‍💻 Automation Projects:</h2>
 
